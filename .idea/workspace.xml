@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8f093ac7-4c32-4c69-863d-7c7d570ed232" name="Changes" comment="pandas and matplotlib practice">
+      <change beforePath="$PROJECT_DIR$/2d.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BasicInput.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClassTest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Condition.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CreatePlots.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DictionaryPractice.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExtendingCarClass.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NonRepeatedString.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NumPyPractice.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PandasDataAnalysys.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeTodays.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgamamForMultiplication.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReverseString.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReverseString.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Students_random.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestStreams.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/card.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ispalindrome.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/students.csv" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/yathishpoojary/DailyCode.git",
+    "accountId": "e9e1230e-d131-4791-8824-a915e046936d"
+  }
+}]]></component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.PracticeTodays.executor": "Run",
+    "Python.practice2.executor": "Run",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "git-widget-placeholder": "main",
+    "node.js.selected.package.tslint": "(autodetect)"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <servers />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/DailyCode$BasicInput.coverage" NAME="BasicInput Coverage Results" MODIFIED="1772942675582" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DailyCode$ReverseString.coverage" NAME="ReverseString Coverage Results" MODIFIED="1773874047427" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DailyCode$CreatePlots.coverage" NAME="CreatePlots Coverage Results" MODIFIED="1773876524128" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DailyCode$ClassTest.coverage" NAME="ClassTest Coverage Results" MODIFIED="1772945144156" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DailyCode$Condition.coverage" NAME="Condition Coverage Results" MODIFIED="1772943706118" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DailyCode$ExtendingCarClass.coverage" NAME="ExtendingCarClass Coverage Results" MODIFIED="1772945680607" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DailyCode$practice2.coverage" NAME="practice2 Coverage Results" MODIFIED="1773877615428" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DailyCode$DictionaryPractice.coverage" NAME="DictionaryPractice Coverage Results" MODIFIED="1772944664047" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TestStreams_java$ReverseString.coverage" NAME="ReverseString Coverage Results" MODIFIED="1773118559248" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DailyCode$PracticeTodays.coverage" NAME="PracticeTodays Coverage Results" MODIFIED="1773877084098" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DailyCode$PandasDataAnalysys.coverage" NAME="PandasDataAnalysys Coverage Results" MODIFIED="1773875670539" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DailyCode$ProgamamForMultiplication.coverage" NAME="ProgamamForMultiplication Coverage Results" MODIFIED="1772943296420" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DailyCode$2d.coverage" NAME="2d Coverage Results" MODIFIED="1773875016020" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
