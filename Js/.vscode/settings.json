@@ -1,0 +1,12 @@
+{
+  "[javascript]": {
+    "editor.suggest.enabled": false,
+    "editor.quickSuggestions": {
+      "other": false,
+      "comments": false,
+      "strings": false
+    },
+    "editor.parameterHints.enabled": false,
+    "editor.inlineSuggest.enabled": false
+  }
+}

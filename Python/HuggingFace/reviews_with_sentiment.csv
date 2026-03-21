@@ -1,0 +1,6 @@
+Review,Sentiment,Confidence
+ it works perfectly!,POSITIVE,0.9998666048049927
+,ERROR,0.0
+,ERROR,0.0
+,ERROR,0.0
+ but could be better.,NEGATIVE,0.9895127415657043
