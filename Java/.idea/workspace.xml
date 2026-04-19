@@ -4,21 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="781cd187-1264-4ac2-9568-e3ab335c5059" name="Changes" comment="Added git ignore">
-      <change afterPath="$PROJECT_DIR$/.idea/claudeCodeTabState.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOPS/OOPS.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice17/CountNumersAppears.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice17/EvenNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice17/FindHighestNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice17/RemoveDuplicate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ThreadsPracticeApril16/Counter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/ReverseString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPSpractice/ReverseOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOPSpractice/ReverseOrder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DailyCode/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DailyCode/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DailyCode/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DailyCode/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DailyCode/DailyCode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/DailyCode.iml" afterDir="false" />
+    <list default="true" id="781cd187-1264-4ac2-9568-e3ab335c5059" name="Changes" comment="practice">
+      <change afterPath="$PROJECT_DIR$/StreamsPractice/MoveZetoToTheEnd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StreamsPractice/RemoveDuplicateFromList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StreamsPractice/SortPracitce.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StreamsPractice/SortTheRecords.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DailyCode/.idea/.gitignore" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,11 +62,16 @@
     "Application.Lamda.executor": "Run",
     "Application.LamdaCode.executor": "Run",
     "Application.LinkedList.executor": "Run",
+    "Application.MainClass.executor": "Run",
     "Application.MaximumSubarray.executor": "Run",
+    "Application.PrimeNumber.executor": "Run",
     "Application.RemoveDuplicate.executor": "Run",
+    "Application.RemoveDuplicateFromList.executor": "Run",
     "Application.ReverseOrder.executor": "Run",
     "Application.ReverseString.executor": "Run",
     "Application.RunnableInterfaceTread.executor": "Run",
+    "Application.SortPracitce.executor": "Run",
+    "Application.SortTheRecords.executor": "Run",
     "Application.StreamApiExample.executor": "Run",
     "Application.Student.executor": "Run",
     "Application.Test.executor": "Run",
@@ -105,6 +102,11 @@
     "to.speed.mode.migration.done": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="Practice17" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="CountNumersAppears" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Practice17.CountNumersAppears" />
@@ -231,14 +233,49 @@
       <option name="project" value="LOCAL" />
       <updated>1776340959677</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Added new problems">
+      <option name="closed" value="true" />
+      <created>1776405200805</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1776405200805</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Clean code base">
+      <option name="closed" value="true" />
+      <created>1776405281406</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1776405281406</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Clean code base">
+      <option name="closed" value="true" />
+      <created>1776405298196</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1776405298196</updated>
+    </task>
+    <task id="LOCAL-00013" summary="practice">
+      <option name="closed" value="true" />
+      <created>1776594274076</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1776594274076</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Leaning java 8 features" />
     <MESSAGE value="Treads practice" />
     <MESSAGE value="Added git ignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added git ignore" />
+    <MESSAGE value="Added new problems" />
+    <MESSAGE value="Clean code base" />
+    <MESSAGE value="practice" />
+    <option name="LAST_COMMIT_MESSAGE" value="practice" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
