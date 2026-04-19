@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="781cd187-1264-4ac2-9568-e3ab335c5059" name="Changes" comment="practice">
-      <change afterPath="$PROJECT_DIR$/StreamsPractice/MoveZetoToTheEnd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StreamsPractice/RemoveDuplicateFromList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StreamsPractice/SortPracitce.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StreamsPractice/SortTheRecords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StreamsPractice/EvenNumberFromList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StreamsPractice/FindTheDuplicateValue.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DailyCode/.idea/.gitignore" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,15 +52,18 @@
     "Application.CreateByClass.executor": "Run",
     "Application.DefaultMethod.executor": "Run",
     "Application.EvenNumber.executor": "Run",
+    "Application.EvenNumberFromList.executor": "Run",
     "Application.ExcecutorService.executor": "Run",
     "Application.FindDuplicate.executor": "Run",
     "Application.FindHighestNumber.executor": "Run",
+    "Application.FindTheDuplicateValue.executor": "Run",
     "Application.GroupAnagrams.executor": "Run",
     "Application.Lamda.executor": "Run",
     "Application.LamdaCode.executor": "Run",
     "Application.LinkedList.executor": "Run",
     "Application.MainClass.executor": "Run",
     "Application.MaximumSubarray.executor": "Run",
+    "Application.MoveZetoToTheEnd.executor": "Run",
     "Application.PrimeNumber.executor": "Run",
     "Application.RemoveDuplicate.executor": "Run",
     "Application.RemoveDuplicateFromList.executor": "Run",
@@ -265,7 +265,23 @@
       <option name="project" value="LOCAL" />
       <updated>1776594274076</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="practice">
+      <option name="closed" value="true" />
+      <created>1776608815058</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1776608815058</updated>
+    </task>
+    <task id="LOCAL-00015" summary="practice">
+      <option name="closed" value="true" />
+      <created>1776608824278</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1776608824278</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
