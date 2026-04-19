@@ -5,10 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="781cd187-1264-4ac2-9568-e3ab335c5059" name="Changes" comment="practice">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StreamsPractice/NonRepeatCharecter.java" beforeDir="false" afterPath="$PROJECT_DIR$/StreamsPractice/NonRepeatCharecter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StreamsPractice/GreaterThanAverage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StreamsPractice/RemoveDuplciae.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StreamsPractice/SortBasedOnLength.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StreamsPractice/SumOfElements.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/StreamsPractice/OccurrenceOfNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/StreamsPractice/OccurrenceOfNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StreamsPractice/SecondLargestNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/StreamsPractice/SecondLargestNumber.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,16 +69,19 @@
     "Application.MoveZetoToTheEnd.executor": "Run",
     "Application.NonRepeatCharecter.executor": "Run",
     "Application.PrimeNumber.executor": "Run",
+    "Application.RemoveDuplciae.executor": "Run",
     "Application.RemoveDuplicate.executor": "Run",
     "Application.RemoveDuplicateFromList.executor": "Run",
     "Application.ReverseOrder.executor": "Run",
     "Application.ReverseString.executor": "Run",
     "Application.RunnableInterfaceTread.executor": "Run",
     "Application.SecondLargestNumber.executor": "Run",
+    "Application.SortBasedOnLength.executor": "Run",
     "Application.SortPracitce.executor": "Run",
     "Application.SortTheRecords.executor": "Run",
     "Application.StreamApiExample.executor": "Run",
     "Application.Student.executor": "Run",
+    "Application.SumOfElements.executor": "Run",
     "Application.Test.executor": "Run",
     "Application.TestSynchronization.executor": "Run",
     "Application.ThreadClass.executor": "Run",
@@ -292,7 +297,15 @@
       <option name="project" value="LOCAL" />
       <updated>1776616410217</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="practice">
+      <option name="closed" value="true" />
+      <created>1776621819175</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1776621819175</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
