@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="781cd187-1264-4ac2-9568-e3ab335c5059" name="Changes" comment="practice">
-      <change afterPath="$PROJECT_DIR$/StreamsPractice/FlatmapPractice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StreamsPractice/StartletterWithS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StreamsPractice/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice20th/ArrangeStringByNumberOfLetters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice20th/ConvertTheStringUppercaseandSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice20th/FindAllDuplicateElementsFromList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice20th/SecondHighestNumberFromList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,72 +46,75 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.ComparableVsComparatorDemo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CountNumersAppears.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Counter.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CreateByClass.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DefaultMethod.executor&quot;: &quot;Run&quot;,
-    &quot;Application.EvenNumber.executor&quot;: &quot;Run&quot;,
-    &quot;Application.EvenNumberFromList.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ExcecutorService.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FindDuplicate.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FindHighestNumber.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FindTheDuplicateValue.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FlatmapPractice.executor&quot;: &quot;Run&quot;,
-    &quot;Application.GreaterThanAverage.executor&quot;: &quot;Run&quot;,
-    &quot;Application.GroupAnagrams.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lamda.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LamdaCode.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LinkedList.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MainClass.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MaximumSubarray.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MoveZetoToTheEnd.executor&quot;: &quot;Run&quot;,
-    &quot;Application.NonRepeatCharecter.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PrimeNumber.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RemoveDuplciae.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RemoveDuplicate.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RemoveDuplicateFromList.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ReverseOrder.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ReverseString.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RunnableInterfaceTread.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SecondLargestNumber.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SortBasedOnLength.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SortPracitce.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SortTheRecords.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StartletterWithS.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StreamApiExample.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Student.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SumOfElements.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Test.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TestSynchronization.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ThreadClass.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ThreadCreateFromLamda.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ThreadFromRunnable.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TreadState.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TwoSum.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ValidParentheses.executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultAutoModeForALLUsers.v1&quot;: &quot;true&quot;,
-    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/DailyCode/Java&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;D:/DailyCode/Java/OOPS/src/Main.java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;fileTemplates&quot;,
-    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ArrangeStringByNumberOfLetters.executor": "Run",
+    "Application.ComparableVsComparatorDemo.executor": "Run",
+    "Application.CountNumersAppears.executor": "Run",
+    "Application.Counter.executor": "Run",
+    "Application.CreateByClass.executor": "Run",
+    "Application.DefaultMethod.executor": "Run",
+    "Application.EvenNumber.executor": "Run",
+    "Application.EvenNumberFromList.executor": "Run",
+    "Application.ExcecutorService.executor": "Run",
+    "Application.FindAllDuplicateElementsFromList.executor": "Run",
+    "Application.FindDuplicate.executor": "Run",
+    "Application.FindHighestNumber.executor": "Run",
+    "Application.FindTheDuplicateValue.executor": "Run",
+    "Application.FlatmapPractice.executor": "Run",
+    "Application.GreaterThanAverage.executor": "Run",
+    "Application.GroupAnagrams.executor": "Run",
+    "Application.Lamda.executor": "Run",
+    "Application.LamdaCode.executor": "Run",
+    "Application.LinkedList.executor": "Run",
+    "Application.MainClass.executor": "Run",
+    "Application.MaximumSubarray.executor": "Run",
+    "Application.MoveZetoToTheEnd.executor": "Run",
+    "Application.NonRepeatCharecter.executor": "Run",
+    "Application.PrimeNumber.executor": "Run",
+    "Application.RemoveDuplciae.executor": "Run",
+    "Application.RemoveDuplicate.executor": "Run",
+    "Application.RemoveDuplicateFromList.executor": "Run",
+    "Application.ReverseOrder.executor": "Run",
+    "Application.ReverseString.executor": "Run",
+    "Application.RunnableInterfaceTread.executor": "Run",
+    "Application.SecondHighestNumberFromList.executor": "Run",
+    "Application.SecondLargestNumber.executor": "Run",
+    "Application.SortBasedOnLength.executor": "Run",
+    "Application.SortPracitce.executor": "Run",
+    "Application.SortTheRecords.executor": "Run",
+    "Application.StartletterWithS.executor": "Run",
+    "Application.StreamApiExample.executor": "Run",
+    "Application.Student.executor": "Run",
+    "Application.SumOfElements.executor": "Run",
+    "Application.Test.executor": "Run",
+    "Application.TestSynchronization.executor": "Run",
+    "Application.ThreadClass.executor": "Run",
+    "Application.ThreadCreateFromLamda.executor": "Run",
+    "Application.ThreadFromRunnable.executor": "Run",
+    "Application.TreadState.executor": "Run",
+    "Application.TwoSum.executor": "Run",
+    "Application.ValidParentheses.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultAutoModeForALLUsers.v1": "true",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/DailyCode/Java",
+    "onboarding.tips.debug.path": "D:/DailyCode/Java/OOPS/src/Main.java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "fileTemplates",
+    "to.speed.mode.migration.done": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="ExtractSuperBase.RECENT_KEYS">
       <recent name="Practice17" />
@@ -314,7 +318,23 @@
       <option name="project" value="LOCAL" />
       <updated>1776627658895</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="practice">
+      <option name="closed" value="true" />
+      <created>1776660850803</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1776660850803</updated>
+    </task>
+    <task id="LOCAL-00020" summary="practice">
+      <option name="closed" value="true" />
+      <created>1776664537082</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1776664537082</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
